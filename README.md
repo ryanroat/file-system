@@ -1,3 +1,3 @@
 ## file-system
 
-### practice with NodeJS file system API
+### practice with NodeJS Readline and File System APIs
